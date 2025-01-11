@@ -1,0 +1,58 @@
+name: thulir
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/splashscreen.jpg
+    - assets/welcome.jpg
+    - assets/signin.jpg
+    - assets/product1.jpg
+    - assets/product2.jpg
+    - assets/product3.jpg
+    - assets/wheat_fertilizer.jpg
+    - assets/plant_pesticide.jpg
+    - assets/green_gram_fertilizer.jpg
+    - assets/fertilizer1.png
+    - assets/fertilizer2.png
+    - assets/fertilizer3.png
+    - assets/fertilizer4.png
+    - assets/fertilizer5.png
+    - assets/fertilizer6.png
+    - assets/pumpkinseeds.png
+    - assets/tomatoseeds.png
+    - assets/moringaseeds.png
+    - assets/brocolliseeds.png
+    - assets/gliricidiasepium.png
+    - assets/egyptianclover.png
+    - assets/bayerjump.png
+    - assets/syngenta-acetra.png
+    - assets/sygentaridomilgold.png
+    - assets/praveen.png
+    - assets/visham.png
+    - assets/paltoil.png
+    - assets/PotassiumHumate.png
+    - assets/AriesAgro-Mobomin.png
+    - assets/AriesAgro-Horticab.png
+    - assets/Criyagen-Boron20%.png
+    - assets/Criyagen-ChilliSpecial.png
+    - assets/Criyagen-CottonSpecial.png
+
